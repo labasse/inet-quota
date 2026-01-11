@@ -1,0 +1,12 @@
+{
+    "daily": [ 120, 120, 180, 120, 120, 300, 300 ], 
+    "users": {
+        "si": { 
+            "devices": {
+                "game_console"  : "AA:BB:CC:DD:EE:FF",
+                "phone"         : "11:22:33:44:55:66",
+                "pc"            : "A1:B2:C3:D4:E5:F6"
+            }
+        }
+    }
+}
